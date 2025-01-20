@@ -21,7 +21,7 @@
 ## 🏍️ Motorbike
 - Passionate about riding and exploring on two wheels. KTM For Ever
 
-## 💻 Coding Enthusiast
+## 💻 Coding
 - Enjoy solving problems and creating projects through code.
 - Always eager to learn new technologies and improve my skills.
 
