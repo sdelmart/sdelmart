@@ -10,7 +10,7 @@
   - **Season 23**: Predator rank #500 🏆
   - **Season 17 & 22**: Master rank 💪
 - **Tekken Player**
-  - **Tekken God Prime** Tekken 7 - Main Steve
+  - **Tekken God Prime Rank on** Tekken 7 - Main Steve
   - Main Dragunov Tekken 8
   - Main Devil Jin Tekken 5
   - Main Paul Tekken 3
