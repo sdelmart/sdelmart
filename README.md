@@ -18,7 +18,7 @@
 ## 🎓 Education
 - Currently pursuing a **Bachelor of Technology (BUT)** at **IUT du Limousin**
 
-## 🏍️ Motorbike Enthusiast
+## 🏍️ Motorbike
 - Passionate about riding and exploring on two wheels. KTM For Ever
 
 ## 💻 Coding Enthusiast
