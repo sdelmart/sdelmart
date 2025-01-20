@@ -14,7 +14,7 @@
 - Currently pursuing a **Bachelor of Technology (BUT)** at **IUT de Limoges**
 
 ## 🏍️ Motorbike Enthusiast
-- Passionate about riding and exploring on two wheels.
+- Passionate about riding and exploring on two wheels. KTM For Ever
 
 ## 💻 Coding Enthusiast
 - Enjoy solving problems and creating projects through code.
