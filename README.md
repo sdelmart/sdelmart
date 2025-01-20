@@ -7,8 +7,8 @@
 
 ## 🎮 Gamer
 - **Apex Legends Player**
-  - **Season 23**: Achieved Predator rank 🏆
-  - **Season 17 & 22**: Reached Master rank 💪
+  - **Season 23**: Predator rank #500 🏆
+  - **Season 17 & 22**: Master rank 💪
 
 ## 🎓 Education
 - Currently pursuing a **Bachelor of Technology (BUT)** at **IUT de Limoges**
