@@ -16,7 +16,7 @@
   - Main Paul Tekken 3
 
 ## 🎓 Education
-- Currently pursuing a **Bachelor of Technology (BUT)** at **IUT de Limoges**
+- Currently pursuing a **Bachelor of Technology (BUT)** at **IUT du Limousin**
 
 ## 🏍️ Motorbike Enthusiast
 - Passionate about riding and exploring on two wheels. KTM For Ever
