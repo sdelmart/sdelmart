@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
+
 **sdelmart/sdelmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # About Me
@@ -19,8 +19,6 @@
 ## 💻 Coding Enthusiast
 - Enjoy solving problems and creating projects through code.
 - Always eager to learn new technologies and improve my skills.
-
-Feel free to connect with me to talk about gaming, coding, or motorbikes!
 
 
 
