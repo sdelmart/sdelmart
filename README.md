@@ -7,7 +7,7 @@
 
 ## 🎮 Gamer
 - **Apex Legends Player**
-  - **Season 23**: #11th French Player & Predator rank #500 🏆
+  - **Season 23**: #10th French Player & Predator rank #356 🏆
   - **Season 17 & 22**: Master rank 💪
 - **Tekken Player**
   - **Tekken God Prime Rank on** Tekken 7 - Main Steve
