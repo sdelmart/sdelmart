@@ -5,6 +5,19 @@
 -->
 # About Me
 
+
+## 🎓 Education
+- Currently pursuing a **Bachelor of Technology (BUT)** at **IUT du Limousin**
+
+## 💻 Coding
+- Enjoy solving problems and creating projects through code.
+- Always eager to learn new technologies and improve my skills.
+
+
+## 🏍️ Motorbike
+- Passionate about riding and exploring on two wheels. KTM For Ever
+
+
 ## 🎮 Gamer
 - **Apex Legends Player**
   - **Season 23**: #10th French Player & Predator rank #356 🏆
@@ -14,16 +27,3 @@
   - Main Dragunov Tekken 8
   - Main Devil Jin Tekken 5
   - Main Paul Tekken 3
-
-## 🎓 Education
-- Currently pursuing a **Bachelor of Technology (BUT)** at **IUT du Limousin**
-
-## 🏍️ Motorbike
-- Passionate about riding and exploring on two wheels. KTM For Ever
-
-## 💻 Coding
-- Enjoy solving problems and creating projects through code.
-- Always eager to learn new technologies and improve my skills.
-
-
-
