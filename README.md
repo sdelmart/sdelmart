@@ -12,6 +12,7 @@
 ## 💻 Coding
 - Enjoy solving problems and creating projects through code.
 - Always eager to learn new technologies and improve my skills.
+- Java / JS / HTML & CSS / Python / C / C++
 
 
 ## 🏍️ Motorbike
