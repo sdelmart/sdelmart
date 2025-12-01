@@ -22,7 +22,7 @@
 ## 🎮 Gamer
 - **Apex Legends Player**
   - **Season 23**: #10th French Player & Predator rank #356 🏆
-  - **Season 17 & 22**: Master rank 💪
+  - **Season 9 & 12 & 17 & 22**: Master rank 💪
 - **Tekken Player**
   - **Tekken God Prime Rank on** Tekken 7 - Main Steve
   - Main Dragunov Tekken 8
